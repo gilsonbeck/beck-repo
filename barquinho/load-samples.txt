@@ -1,0 +1,9 @@
+1, aquoso_feminino1.wav			1208473	96	area01	125.883;
+2, gongo_grave+phase_voconder-mono.wav	1256816	96	area02	26.3081;
+3, bruma_coacha.wav			2632370	44.1	area03;
+4, raspagem_de_galao-mono.wav		380672	44.1	area04;
+5, Submarino-norm-mono.wav		4966272	44.1	area05	1126.14;
+6, vapor_de_sininhos-norm-mono.wav	2687943	44.1	area06	609.511;
+7, Mar_e_profundezas-Messiaen-mono.wav	196669	44.1	area07	44.5961;
+8, Magia-mono.wav			2438054	44.1	area08;
+9, castanholas-mono.wav			2482292	44.1	area09;
