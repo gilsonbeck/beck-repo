@@ -7,3 +7,16 @@
 7, Mar_e_profundezas-Messiaen-mono.wav	196669	44.1	area07	44.5961;
 8, Magia-mono.wav			2438054	44.1	area08;
 9, castanholas-mono.wav			2482292	44.1	area09;
+10, travao-leve.wav			952320	44.1	area10;
+11, trovao-forte.wav			692028	44.1	area11;	
+12, thunder_sweep.wav			159354	44.1	area12;	
+13, chuva-1.wav				5110521	44.1	area13;	
+14, chuva-2.wav				3749324	44.1	area14;	
+15, vento-1.wav				1411706	44.1	area15;	
+16, agua.wav				1938885	44.1	area16;
+17, s2Grande.wav			1648496 56	area17;
+18, s22Grande.wav			2120344 48	area18;
+19, s30Grande.wav			1766397 40	area19;
+
+20, s2Pequeno.wav			117789	4	area20;
+21, s2PequenoExtra.wav			117865	4	area21;

@@ -1,0 +1,17 @@
+s2Pequeno.wav
+1, 117789, 4
+
+s2PequenoExtra.wav
+2, 117865, 4
+
+s2Grande.wav
+3, 1648496, 56
+
+s22Grande.wav
+4, 2120344, 48
+
+s30Grande.wav
+5, 1766397, 40
+
+s40Grande.wav
+6, 1879540, não consegui contar pq tem uma quebra +- no meio
