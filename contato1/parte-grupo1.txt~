@@ -1,0 +1,5 @@
+% XXX,	bang(1)	vol	space(0-100)	número_do_som	dura	inv(0-1);
+
+%grunhidos longo
+2000,	1	100	0		21		7	0;
+
